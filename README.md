@@ -25,8 +25,9 @@ Unless explicitly stated otherwise in a repository, all my code is licensed unde
   - This software may include third-party libraries, dependencies, or be based on forked projects.  
   - Any included third-party code remains under **its original license**, unless that license **legally allows** my license terms to override it.  
   - If a third-party license **permits re-licensing**, those components are covered under this software’s AGPL-3.0 + Non-Commercial terms.  
-  - Users are responsible for complying with any third-party license restrictions that remain in effect.  
-
+  - Users are responsible for complying with any third-party license restrictions that remain in effect.
+  - Any redistribution or modification of my software must include this entire license—including these custom commercial‑use terms—alongside the AGPL‑3.0 text.
+  
 - **License Violations**:  
   - If you use this software commercially without a valid license, you are in violation of my licensing terms.  
   - Unauthorized commercial use may result in legal action or takedown requests.  
